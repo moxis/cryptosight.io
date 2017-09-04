@@ -1,5 +1,5 @@
 # 🤖 Cryptolator
-![Preview] (https://i.imgur.com/UAX84hU.png)
+![Preview](https://i.imgur.com/UAX84hU.png)
 
 ## Introduction
 Cryptolator is a Telegram bot made for cryptocurrency traders on Bittrex and Poloniex. This bot comes packed with many cool features and customizable options.

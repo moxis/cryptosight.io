@@ -20,6 +20,7 @@ The bot can be found [here](http://t.me/CryptolatorBot) or simply search up @Cry
 * Switch between light and dark themes!
 
 ## Gallery
+
 ### Portfolio View
 ---
 #### Light Theme:

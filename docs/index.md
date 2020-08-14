@@ -1,4 +1,4 @@
-# 🤖 Cryptolator
+# 🤖 Cryptosight
 ![Preview](https://i.imgur.com/UAX84hU.png)
 
 ## Introduction

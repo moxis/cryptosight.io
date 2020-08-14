@@ -18,8 +18,16 @@ The bot can be found [here](http://t.me/CryptolatorBot) or simply search up @Cry
 * View your trade history through Telegram
 * Toggle exchanges with a single click
 * Switch between light and dark themes!
+* And many more...
 
 ## Gallery
+
+### Control Panel
+---
+
+| Bot Settings | Console |
+|----|----|
+|![](https://i.imgur.com/16xnYtz.jpg)| ![](https://i.imgur.com/YUK511G.jpg) |
 
 ### Portfolio View
 ---

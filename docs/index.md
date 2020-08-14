@@ -23,46 +23,30 @@ The bot can be found [here](http://t.me/CryptolatorBot) or simply search up @Cry
 
 ### Portfolio View
 ---
-#### Light Theme:
-![Light](https://i.imgur.com/IWfjNzV.jpg)
-
-#### Dark Theme:
-![Dark](https://i.imgur.com/Ggpj0Hs.jpg)
+| Light | Dark |
+|----|----|
+|![Light](https://i.imgur.com/IWfjNzV.jpg)|![Dark](https://i.imgur.com/Ggpj0Hs.jpg)|
 
 ### Overview
 ---
-#### Light Theme:
-![Light](https://i.imgur.com/4hoFBRp.jpg)
-
-#### Dark Theme:
-![Dark](https://i.imgur.com/nM8cGoE.jpg)
+| Light | Dark |
+|----|----|
+|![Light](https://i.imgur.com/4hoFBRp.jpg)|![Dark](https://i.imgur.com/nM8cGoE.jpg)|
 
 ### History
 ---
-#### Light Theme:
-![Light](https://i.imgur.com/HAnZz9S.jpg)
-
-#### Dark Theme:
-![Dark](https://i.imgur.com/5BLU1uR.jpg)
+| Light | Dark |
+|----|----|
+|![Light](https://i.imgur.com/HAnZz9S.jpg)|![Dark](https://i.imgur.com/5BLU1uR.jpg)|
 
 ### Keyboard
 ---
-#### Main:
-![Main](https://i.imgur.com/qr24zp3.png)
-
-#### Settings:
-![Settings](https://i.imgur.com/dKurh3X.png)
-
-#### Advanced settings:
-![Moar Settings](https://i.imgur.com/DUPVrY1.png)
+| Main | Settings | Advanced |
+|----|----|----|
+|![Main](https://i.imgur.com/qr24zp3.png)|![Settings](https://i.imgur.com/dKurh3X.png)|![Moar Settings](https://i.imgur.com/DUPVrY1.png)|
 
 ### Extra
 ---
-#### Notifications
-![Notifications](https://i.imgur.com/kovkI6S.jpg)
-
-#### Photo 1
-![](https://i.imgur.com/SUfehzg.jpg)
-
-#### Photo 2
-![](https://i.imgur.com/EQfE4au.jpg)
+| Notifications | Photo 1 | Photo 2 |
+|----|----|----|
+|![Notifications](https://i.imgur.com/kovkI6S.jpg)|![](https://i.imgur.com/SUfehzg.jpg)|![](https://i.imgur.com/EQfE4au.jpg)|

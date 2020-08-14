@@ -21,9 +21,11 @@ The bot can be found [here](http://t.me/CryptoSightBot) or simply search up @Cry
 ### Control Panel
 ---
 
-| Bot Settings | Console |
-|----|----|
-|![](https://i.imgur.com/16xnYtz.jpg)| ![](https://i.imgur.com/YUK511G.jpg) |
+#### Bot Settings
+![](https://i.imgur.com/16xnYtz.jpg)
+
+#### Console
+![](https://i.imgur.com/YUK511G.jpg)
 
 ### Portfolio View
 ---

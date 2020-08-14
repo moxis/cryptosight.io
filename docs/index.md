@@ -18,11 +18,8 @@ The bot can be found [here](http://t.me/CryptoSightBot) or simply search up @Cry
 
 ## Gallery
 
-### Control Panel
----
-
-#### Bot Settings
-![](https://i.imgur.com/16xnYtz.jpg)
+### Bot Settings
+<img src="https://i.imgur.com/16xnYtz.jpg" width="60%" >
 
 ### Portfolio View
 ---

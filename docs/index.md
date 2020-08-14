@@ -23,30 +23,35 @@ The bot can be found [here](http://t.me/CryptolatorBot) or simply search up @Cry
 
 ### Portfolio View
 ---
+
 | Light | Dark |
 |----|----|
 |![Light](https://i.imgur.com/IWfjNzV.jpg)|![Dark](https://i.imgur.com/Ggpj0Hs.jpg)|
 
 ### Overview
 ---
+
 | Light | Dark |
 |----|----|
 |![Light](https://i.imgur.com/4hoFBRp.jpg)|![Dark](https://i.imgur.com/nM8cGoE.jpg)|
 
 ### History
 ---
+
 | Light | Dark |
 |----|----|
 |![Light](https://i.imgur.com/HAnZz9S.jpg)|![Dark](https://i.imgur.com/5BLU1uR.jpg)|
 
 ### Keyboard
 ---
+
 | Main | Settings | Advanced |
 |----|----|----|
 |![Main](https://i.imgur.com/qr24zp3.png)|![Settings](https://i.imgur.com/dKurh3X.png)|![Moar Settings](https://i.imgur.com/DUPVrY1.png)|
 
 ### Extra
 ---
+
 | Notifications | Photo 1 | Photo 2 |
 |----|----|----|
 |![Notifications](https://i.imgur.com/kovkI6S.jpg)|![](https://i.imgur.com/SUfehzg.jpg)|![](https://i.imgur.com/EQfE4au.jpg)|

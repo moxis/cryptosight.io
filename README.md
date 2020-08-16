@@ -1,11 +1,9 @@
-# CryptoSight-Public
-**DEPRECATED**
+# cryptosight.io
+We have partnered with Gunbot (https://gunthy.org).
 
-We have partnered with Gunbot (https://gunthy.org). The bot will now be located at @gunthy_bot. Please contact @Dante2333 or refer to this wiki:
+https://wiki.gunthy.org/setup-and-general-settings/preferences/telegram-notifications
 
-https://github.com/GuntharDeNiro/BTCT/wiki/Cryptosight
-
-Old Gallery, however, still valid representation of the product: https://moxis.github.io/CryptoSight-Public/
+Photo Gallery: https://cryptosight.io
 ***
 
 ~~🤖 Issue Tracker for @CryptosightBot~~

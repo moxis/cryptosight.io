@@ -1,7 +1,7 @@
 # cryptosight.io
 We have partnered with Gunbot (https://gunthy.org).
 
-https://wiki.gunthy.org/setup-and-general-settings/preferences/telegram-notifications
+https://wiki.gunthy.org/setup-and-general-settings/profile-settings/telegram-notifications
 
 Photo Gallery: http://cryptosight.io
 ***
